@@ -2,6 +2,8 @@ Git Assignment
 
 **Step 1-** First created a directory named gitAssignment and created a readme.md file
 
+        command used- mkdir gitAssignment 
+
 **Step 2-** Then initilised that file with git file.
 
         command used- git init
